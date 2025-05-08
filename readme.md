@@ -8,10 +8,3 @@ User Login :
 - username : admin
 - password : 123456
 
-2. Akun Operator Barang
-- username : barang
-- password : 123456
-
-3. Akun Operator Mahasiswa 
-- username : mahasiswa
-- password : 123456
